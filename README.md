@@ -95,7 +95,7 @@ void loop()
 **
 
 
-[My image](/img123.png)
+[My image](img123.png)
 
 
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
